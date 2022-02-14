@@ -1,3 +1,3 @@
-# DCC Decoder
+# Wright Train Works
 
-Project files for DCC Decoder
+Project files for Wright Train Works
