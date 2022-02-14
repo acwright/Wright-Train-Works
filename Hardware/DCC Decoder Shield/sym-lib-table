@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "SRD12VDC-SL-C")(type "KiCad")(uri "${KIPRJMOD}/SRD12VDC-SL-C.kicad_sym")(options "")(descr ""))
+  (lib (name "A.C. Wright Logo")(type "KiCad")(uri "${KIPRJMOD}/A.C. Wright Logo.kicad_sym")(options "")(descr ""))
+)
