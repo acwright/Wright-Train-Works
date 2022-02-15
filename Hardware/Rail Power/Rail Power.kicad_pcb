@@ -6,10 +6,10 @@
 
   (paper "USLetter")
   (title_block
-    (title "DCC Decoder Shield")
+    (title "DCC Decoder")
     (date "2022-02-11")
     (rev "A")
-    (company "Wright Train Works")
+    (company "A.C. Wright Design")
   )
 
   (layers

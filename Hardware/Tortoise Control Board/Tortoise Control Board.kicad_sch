@@ -1568,7 +1568,7 @@
     (property "Value" "L9110S" (id 1) (at 167.64 101.6 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
-    (property "Footprint" "Package_SO:HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.4x3.2mm" (id 2) (at 175.26 101.6 0)
+    (property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" (id 2) (at 175.26 101.6 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (property "Datasheet" "" (id 3) (at 165.1 101.6 0)
@@ -1683,7 +1683,7 @@
       (reference "C2") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/cf512827-0083-476a-af94-fe5e81c9a2c2"
-      (reference "IC1") (unit 1) (value "L9110S") (footprint "Package_SO:HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.4x3.2mm")
+      (reference "IC1") (unit 1) (value "L9110S") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/2efe821f-f45d-448b-95a8-7ea0f33d2d83"
       (reference "J1") (unit 1) (value "Conn_01x02") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal")
