@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "SW_TS-1187A-B-A-B")(type "KiCad")(uri "${KIPRJMOD}/SW_TS-1187A-B-A-B.pretty")(options "")(descr ""))
+  (lib (name "OPTO_HCPL2630S")(type "KiCad")(uri "${KIPRJMOD}/OPTO_HCPL2630S")(options "")(descr ""))
+  (lib (name "SRD-5VDC-SL-C")(type "KiCad")(uri "${KIPRJMOD}/SRD-5VDC-SL-C.pretty")(options "")(descr ""))
+  (lib (name "SRD-12VDC-SL-C")(type "KiCad")(uri "${KIPRJMOD}/SRD-12VDC-SL-C.pretty")(options "")(descr ""))
+)

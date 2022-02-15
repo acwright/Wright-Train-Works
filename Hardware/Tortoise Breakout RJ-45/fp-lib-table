@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "EBM08DSXN")(type "KiCad")(uri "${KIPRJMOD}/EBM08DSXN.pretty")(options "")(descr ""))
+  (lib (name "Amphenol-54602-908LF-0")(type "KiCad")(uri "${KIPRJMOD}/Amphenol-54602-908LF.pretty")(options "")(descr ""))
+)

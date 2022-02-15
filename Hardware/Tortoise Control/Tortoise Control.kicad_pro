@@ -44,8 +44,8 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "45_degree_only": false,
-          "min_clearance": 0.0
+          "45_degree_only": true,
+          "min_clearance": 0.254
         }
       },
       "diff_pair_dimensions": [
@@ -356,7 +356,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Tortoise Breakout Board.kicad_pro",
+    "filename": "Tortoise Control Board.kicad_pro",
     "version": 1
   },
   "net_settings": {

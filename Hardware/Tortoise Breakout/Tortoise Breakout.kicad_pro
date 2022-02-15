@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.508
+          "min_clearance": 0.254
         }
       },
       "diff_pair_dimensions": [
@@ -56,7 +56,7 @@
         }
       ],
       "drc_exclusions": [
-        "zone_has_empty_net|172500000|138500000|6ca9a15b-7bed-4718-b87f-cf6cd158c0fb|00000000-0000-0000-0000-000000000000"
+        "zone_has_empty_net|175400000|125400000|58a19930-7e6b-47cd-84cb-b0b147cfc2d9|00000000-0000-0000-0000-000000000000"
       ],
       "meta": {
         "version": 2
@@ -356,7 +356,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Tortoise Hub Board.kicad_pro",
+    "filename": "Tortoise Breakout Board.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -435,7 +435,7 @@
   },
   "sheets": [
     [
-      "d6040293-95f0-436a-938c-ad69875a4be8",
+      "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55",
       ""
     ]
   ],
