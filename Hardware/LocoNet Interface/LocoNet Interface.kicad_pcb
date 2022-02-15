@@ -3275,7 +3275,7 @@
   (gr_text "REV A" (at 121 120.5) (layer "B.SilkS") (tstamp a1701438-3c8b-4b49-8695-36ec7f9ae4d2)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
-  (gr_text "12V" (at 150.5 120) (layer "F.SilkS") (tstamp 17648de8-29d7-4173-bedb-1770e7f27c02)
+  (gr_text "+12V" (at 150.5 120) (layer "F.SilkS") (tstamp 17648de8-29d7-4173-bedb-1770e7f27c02)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_text "PWR" (at 135 123.75) (layer "F.SilkS") (tstamp 841cb9f6-3613-4312-9571-7c3fd37fe85e)

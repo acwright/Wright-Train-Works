@@ -4,7 +4,7 @@
     (thickness 1.6)
   )
 
-  (paper "A4")
+  (paper "USLetter")
   (title_block
     (title "Tortoise Breakout Board RJ-45")
     (date "2022-02-12")
