@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name "SRD5VDC-SL-C")(type "KiCad")(uri "${KIPRJMOD}/SRD5VDC-SL-C.kicad_sym")(options "")(descr ""))
   (lib (name "SRD12VDC-SL-C")(type "KiCad")(uri "${KIPRJMOD}/SRD12VDC-SL-C.kicad_sym")(options "")(descr ""))
+  (lib (name "Arduino")(type "KiCad")(uri "${KIPRJMOD}/Arduino.kicad_sym")(options "")(descr ""))
 )

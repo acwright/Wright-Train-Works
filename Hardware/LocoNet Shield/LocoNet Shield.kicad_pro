@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 1.78,
-          "width": 1.52
+          "drill": 0.762,
+          "height": 1.524,
+          "width": 1.524
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -55,14 +55,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "courtyards_overlap|134784999|72010001|bc437823-b055-4b4d-9e9b-36084255baed|09578cae-3e9a-4372-a934-d377a0227b7c",
-        "courtyards_overlap|134784999|74550001|e13e1f10-5db0-4724-9b61-b42e7e4e1d4a|bc437823-b055-4b4d-9e9b-36084255baed",
-        "courtyards_overlap|153844999|104070001|b0c06db7-a576-4fd8-83c7-c014cc52b2d6|56d2c581-0e1d-4968-9265-81ebcc2ced46",
-        "courtyards_overlap|153844999|106610001|56d2c581-0e1d-4968-9265-81ebcc2ced46|7457f92b-d768-49d2-a7c7-6385146769b6",
-        "courtyards_overlap|153844999|72010001|e762fafd-aba3-4f95-8923-69fc7014c1b7|f626dfdc-a42e-49fe-92eb-181cb51736dc",
-        "courtyards_overlap|153844999|74550001|63d855ac-697e-4eed-8221-860e4b1819e2|e762fafd-aba3-4f95-8923-69fc7014c1b7"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -93,7 +86,7 @@
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
         "silk_over_copper": "warning",
-        "silk_overlap": "ignore",
+        "silk_overlap": "warning",
         "skew_out_of_range": "error",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
@@ -361,7 +354,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "DCC Decoder Shield.kicad_pro",
+    "filename": "LocoNet Interface.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -440,7 +433,7 @@
   },
   "sheets": [
     [
-      "6eb4961f-c408-48d2-b036-d6afab41f34c",
+      "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55",
       ""
     ]
   ],
